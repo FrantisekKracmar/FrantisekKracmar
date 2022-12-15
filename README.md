@@ -8,7 +8,7 @@
 
 hi, i'm František Kráčmar, a passionate software engineer. I have graduated from Czech Technical University in Prague major in Automation and industrial informatics.
 
-<img align="right" alt="GIF" src="TODO" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/FrantisekKracmar/FrantisekKracmar/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:kracmarf@gmail.com) :)
 - 💬 ask me about anything, i am happy to help
