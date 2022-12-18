@@ -5,7 +5,7 @@
 
 <br>
 
-a passionate software engineer. I have several years of experience, mainly in back-end development. I have spent most of my time with Python and C++, but I have worked with many other languages - C, MATLAB, LabVIEW, VBA. Anyway, programming language is only a tool to reach the desired goal so I am open to new languages and technologies. Which is how I usually spend my free time - learning new things.
+a passionate software engineer. I have several years of experience, mainly in back-end development. I have spent most of my time with Python and C++, but I have worked with many other languages - namely C, MATLAB, LabVIEW and VBA. Anyway, programming language is only a tool to reach the desired goal in my opinion and I am open to new languages and technologies. Which is how I usually spend my free time - learning new things.
 
 <img align="right" alt="GIF" src="https://github.com/FrantisekKracmar/FrantisekKracmar/blob/main/code.gif?raw=true" width="500" height="320" />
 
