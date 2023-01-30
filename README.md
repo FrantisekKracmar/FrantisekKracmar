@@ -9,9 +9,9 @@ a passionate software engineer. I have several years of experience, mainly in ba
 
 <img align="right" alt="GIF" src="https://github.com/FrantisekKracmar/FrantisekKracmar/blob/main/code.gif?raw=true" width="500" height="320" />
 
-- 🔭 I'am currently looking for new job opportunities
+- 🔭 I'am currently working for T-Mobile
 - 💼 Any freelance work? do reach me by [email](mailto:kracmarf@gmail.com) :)
-- 📚 I'am currently reading Modern Software Engineering
+- 📚 I'am currently reading Clean Coder
 - 💬 Ask me about anything, i am happy to help
 
 **My values:**
